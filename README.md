@@ -16,4 +16,4 @@ We can move the implementation to Errors package, and say that the old error in 
 We can do this by  
 type Error = Errors.AnimalErrors
 
-Above is called type alias.
+Above is called type alias
